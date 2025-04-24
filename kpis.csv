@@ -1,0 +1,13 @@
+test_name,target_group,test_variant,orders,users,avg_df,avg_fv,avg_commission,avg_delivery_cost,avg_distance_km,avg_gmv,avg_revenue,avg_travel_time,avg_to_customer_time,vendor_rdf_fee,trade_mktg_fee,vendor_hplus_fee,user_paid_fee,DF_Revenue
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 2,Control,10883,9768,1.89,75.78,4.82,11.22,3.32,75.78,15.89,22.98,9.44,4.93,0.0,4.15,1.55,10.63
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 2,Variation1,11063,9887,2.87,74.88,4.75,16.16,3.25,74.88,20.67,22.52,9.32,4.78,0.0,3.98,2.28,11.04
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 3,Control,25653,20028,1.42,93.61,4.08,12.33,5.11,93.61,16.29,48.05,12.82,2.58,0.0,2.1,1.19,5.87
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 3,Variation1,23819,18985,1.62,96.6,4.21,17.33,5.12,96.6,21.38,48.9,12.9,2.59,0.0,2.25,1.35,6.19
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 4,Control,146,140,2.42,47.55,2.85,13.22,6.15,47.55,15.79,27.35,11.92,5.98,0.0,4.87,2.02,12.87
+SA_20250414_L_G0_O_Tier_1_RDF_Removing_MOV,Target Group 4,Variation1,133,128,3.77,48.09,2.91,18.12,5.65,48.09,20.73,28.92,11.67,5.89,0.0,5.41,2.92,14.22
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 1,Control,288,258,8.03,56.33,4.36,11.37,3.54,56.33,15.2,35.34,9.9,0.0,0.0,0.0,6.47,6.47
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 1,Variation1,272,238,9.48,59.17,4.64,12.57,3.52,59.17,16.75,35.84,9.96,0.0,0.0,0.0,7.46,7.46
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 2,Control,46821,33596,3.06,98.13,4.22,13.64,5.19,98.13,17.73,48.93,13.13,2.18,0.0,1.64,2.57,6.39
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 2,Variation1,46164,33250,2.98,96.9,4.18,13.73,5.18,96.9,17.8,48.85,13.2,2.21,0.0,1.68,2.51,6.39
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 3,Control,27382,22618,4.49,73.92,4.93,12.36,3.51,73.92,17.13,22.11,9.43,2.98,0.0,2.37,3.65,9.0
+SA_20250414_L_G0_O_Tier_1_Removing_MOV,Target Group 3,Variation1,27521,22648,4.9,72.99,4.86,12.88,3.53,72.99,17.57,22.13,9.48,3.0,0.0,2.34,3.96,9.3
